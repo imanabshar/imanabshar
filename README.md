@@ -2,11 +2,11 @@
   
 # Hello! I’m Iman Abshar 👋
 
-A **Frontend Web Developer**, currently expanding into full-stack development. 
+A **Frontend Web Developer** currently expanding into full-stack development. 
 
 I code because turning ideas into working things thrills me. What excites me most is taking a concept from my head, breaking it down, and piecing it together into something meaningful on the web.
 
-Currently I’m diving deeper into full-stack development through The Odin Project’s Full JavaScript path while pursuing my Bachelor’s in Computer Science at NED University of Engineering and Technology.
+Currently I’m diving deeper into full-stack development through The Odin Project’s Full Stack JavaScript path while pursuing my Bachelor’s in Computer Science at NED University of Engineering and Technology.
 <br>
 <br>
 
